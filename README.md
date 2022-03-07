@@ -44,6 +44,7 @@ Klik Preview > muncul jendela baru klik ok > muncul jendela baru lagi yang menam
 ![4+7](https://user-images.githubusercontent.com/86678205/157018310-33f97e03-e0db-415d-8c69-b6e9153c05b1.PNG)
 
 - 5.) Kemudian kita simpan ke tempat/file baru berformat XML 
+####
 Menghubungkan step input ke output menggunakan yang namanya hop
 
 klik sekali pada step input > klik hop 
